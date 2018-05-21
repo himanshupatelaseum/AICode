@@ -1,0 +1,6 @@
+framework module Pods_AICode_Tests {
+  umbrella header "Pods-AICode_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

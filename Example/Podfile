@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AICode_Example' do
+  pod 'AICode', :path => '../'
+
+  target 'AICode_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

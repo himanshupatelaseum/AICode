@@ -1,0 +1,22 @@
+{
+  "name": "AICode",
+  "version": "0.1.0",
+  "summary": "A short description of AICode.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/himanshupatelaseum/AICode",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "himanshupatelaseum": "himanshu.aseum@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/himanshupatelaseum/AICode.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AICode/Classes/**/*"
+}

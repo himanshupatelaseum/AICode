@@ -1,0 +1,6 @@
+framework module AICode {
+  umbrella header "AICode-umbrella.h"
+
+  export *
+  module * { export * }
+}
